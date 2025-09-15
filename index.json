@@ -2,81 +2,101 @@
   {
     "filename": "image0.png",
     "filepath": "images/image0.png",
-    "timestamp": "2025-08-15T15:19:12.903000+00:00",
-    "author": "ｳﾆﾃｨ",
-    "user_id": "958640329706332221",
-    "reaction_count": 0
+    "timestamp": "2024-11-28T17:10:38.340000+00:00",
+    "author": "クロム",
+    "user_id": "234313536002719757",
+    "reaction_count": 12,
+    "distributed_reaction_count": 12.0,
+    "image_count_in_message": 1
   },
   {
     "filename": "image1.png",
     "filepath": "images/image1.png",
-    "timestamp": "2025-05-27T15:05:55.115000+00:00",
+    "timestamp": "2025-09-08T15:14:00.852000+00:00",
     "author": "ふぃーぬ",
     "user_id": "1280361280640782390",
-    "reaction_count": 6
+    "reaction_count": 3,
+    "distributed_reaction_count": 3.0,
+    "image_count_in_message": 1
   },
   {
     "filename": "image2.png",
     "filepath": "images/image2.png",
-    "timestamp": "2025-06-15T17:44:35.214000+00:00",
-    "author": "クロム",
-    "user_id": "234313536002719757",
-    "reaction_count": 13
+    "timestamp": "2025-03-07T12:58:47.902000+00:00",
+    "author": "ふぃーぬ",
+    "user_id": "1280361280640782390",
+    "reaction_count": 11,
+    "distributed_reaction_count": 11.0,
+    "image_count_in_message": 1
   },
   {
     "filename": "image3.png",
     "filepath": "images/image3.png",
-    "timestamp": "2025-01-26T08:36:48.248000+00:00",
-    "author": "Fuma",
-    "user_id": "273693716370423808",
-    "reaction_count": 23
+    "timestamp": "2024-11-09T18:16:47.814000+00:00",
+    "author": "クロム",
+    "user_id": "234313536002719757",
+    "reaction_count": 2,
+    "distributed_reaction_count": 1.0,
+    "image_count_in_message": 2
   },
   {
     "filename": "image4.png",
     "filepath": "images/image4.png",
-    "timestamp": "2025-06-01T08:11:22.262000+00:00",
-    "author": "八雲長月",
-    "user_id": "428095417197264897",
-    "reaction_count": 16
+    "timestamp": "2025-06-18T14:17:29.433000+00:00",
+    "author": "クロム",
+    "user_id": "234313536002719757",
+    "reaction_count": 12,
+    "distributed_reaction_count": 6.0,
+    "image_count_in_message": 2
   },
   {
     "filename": "image5.png",
     "filepath": "images/image5.png",
-    "timestamp": "2025-02-26T15:46:31+00:00",
+    "timestamp": "2025-02-26T15:48:34.162000+00:00",
     "author": "クロム",
     "user_id": "234313536002719757",
-    "reaction_count": 13
+    "reaction_count": 13,
+    "distributed_reaction_count": 6.5,
+    "image_count_in_message": 2
   },
   {
     "filename": "image6.png",
     "filepath": "images/image6.png",
-    "timestamp": "2025-08-15T15:20:47.688000+00:00",
-    "author": "ｳﾆﾃｨ",
-    "user_id": "958640329706332221",
-    "reaction_count": 0
+    "timestamp": "2024-11-05T18:03:02.327000+00:00",
+    "author": "クロム",
+    "user_id": "234313536002719757",
+    "reaction_count": 6,
+    "distributed_reaction_count": 3.0,
+    "image_count_in_message": 2
   },
   {
     "filename": "image7.png",
     "filepath": "images/image7.png",
-    "timestamp": "2024-11-01T19:37:27.259000+00:00",
-    "author": "ｳﾆﾃｨ",
-    "user_id": "958640329706332221",
-    "reaction_count": 16
+    "timestamp": "2024-11-06T17:56:23.107000+00:00",
+    "author": "クロム",
+    "user_id": "234313536002719757",
+    "reaction_count": 9,
+    "distributed_reaction_count": 9.0,
+    "image_count_in_message": 1
   },
   {
     "filename": "image8.png",
     "filepath": "images/image8.png",
-    "timestamp": "2024-11-10T16:31:40.342000+00:00",
-    "author": "ｳﾆﾃｨ",
-    "user_id": "958640329706332221",
-    "reaction_count": 7
+    "timestamp": "2024-11-21T15:41:56.709000+00:00",
+    "author": "ふぃーぬ",
+    "user_id": "1280361280640782390",
+    "reaction_count": 14,
+    "distributed_reaction_count": 14.0,
+    "image_count_in_message": 1
   },
   {
     "filename": "image9.png",
     "filepath": "images/image9.png",
-    "timestamp": "2024-07-02T03:16:23.725000+00:00",
-    "author": "ｳﾆﾃｨ",
-    "user_id": "958640329706332221",
-    "reaction_count": 2
+    "timestamp": "2024-11-06T18:00:25.053000+00:00",
+    "author": "クロム",
+    "user_id": "234313536002719757",
+    "reaction_count": 11,
+    "distributed_reaction_count": 11.0,
+    "image_count_in_message": 1
   }
 ]
