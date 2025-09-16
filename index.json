@@ -2,57 +2,27 @@
   {
     "filename": "image0.png",
     "filepath": "images/image0.png",
-    "timestamp": "2025-03-07T12:58:47.902000+00:00",
-    "author": "ふぃーぬ",
-    "user_id": "1280361280640782390",
-    "reaction_count": 11,
-    "distributed_reaction_count": 11.0,
-    "image_count_in_message": 1
+    "timestamp": "2024-11-05T18:03:02.327000+00:00",
+    "author": "クロム",
+    "user_id": "234313536002719757",
+    "reaction_count": 6,
+    "distributed_reaction_count": 4.242640687119285,
+    "image_count_in_message": 2
   },
   {
     "filename": "image1.png",
     "filepath": "images/image1.png",
-    "timestamp": "2025-02-26T15:46:31+00:00",
-    "author": "クロム",
-    "user_id": "234313536002719757",
-    "reaction_count": 13,
-    "distributed_reaction_count": 9.192388155425117,
+    "timestamp": "2025-01-17T13:12:32.318000+00:00",
+    "author": "ふぃーぬ",
+    "user_id": "1280361280640782390",
+    "reaction_count": 10,
+    "distributed_reaction_count": 7.071067811865475,
     "image_count_in_message": 2
   },
   {
     "filename": "image2.png",
     "filepath": "images/image2.png",
-    "timestamp": "2025-04-06T14:48:10.484000+00:00",
-    "author": "ふぃーぬ",
-    "user_id": "1280361280640782390",
-    "reaction_count": 13,
-    "distributed_reaction_count": 13.0,
-    "image_count_in_message": 1
-  },
-  {
-    "filename": "image3.png",
-    "filepath": "images/image3.png",
-    "timestamp": "2024-11-04T19:13:16.761000+00:00",
-    "author": "クロム",
-    "user_id": "234313536002719757",
-    "reaction_count": 8,
-    "distributed_reaction_count": 8.0,
-    "image_count_in_message": 1
-  },
-  {
-    "filename": "image4.png",
-    "filepath": "images/image4.png",
-    "timestamp": "2025-02-26T15:47:02.737000+00:00",
-    "author": "クロム",
-    "user_id": "234313536002719757",
-    "reaction_count": 13,
-    "distributed_reaction_count": 9.192388155425117,
-    "image_count_in_message": 2
-  },
-  {
-    "filename": "image5.png",
-    "filepath": "images/image5.png",
-    "timestamp": "2024-11-21T15:41:56.709000+00:00",
+    "timestamp": "2025-06-01T15:06:18.456000+00:00",
     "author": "ふぃーぬ",
     "user_id": "1280361280640782390",
     "reaction_count": 14,
@@ -60,28 +30,8 @@
     "image_count_in_message": 1
   },
   {
-    "filename": "image6.png",
-    "filepath": "images/image6.png",
-    "timestamp": "2025-05-27T15:05:55.115000+00:00",
-    "author": "ふぃーぬ",
-    "user_id": "1280361280640782390",
-    "reaction_count": 6,
-    "distributed_reaction_count": 6.0,
-    "image_count_in_message": 1
-  },
-  {
-    "filename": "image7.png",
-    "filepath": "images/image7.png",
-    "timestamp": "2024-11-09T18:16:47.814000+00:00",
-    "author": "クロム",
-    "user_id": "234313536002719757",
-    "reaction_count": 2,
-    "distributed_reaction_count": 1.414213562373095,
-    "image_count_in_message": 2
-  },
-  {
-    "filename": "image8.png",
-    "filepath": "images/image8.png",
+    "filename": "image3.png",
+    "filepath": "images/image3.png",
     "timestamp": "2025-08-15T09:43:54.923000+00:00",
     "author": "ふぃーぬ",
     "user_id": "1280361280640782390",
@@ -90,13 +40,63 @@
     "image_count_in_message": 1
   },
   {
-    "filename": "image9.png",
-    "filepath": "images/image9.png",
-    "timestamp": "2025-02-22T11:14:52.363000+00:00",
+    "filename": "image4.png",
+    "filepath": "images/image4.png",
+    "timestamp": "2025-08-26T12:14:09.845000+00:00",
     "author": "ふぃーぬ",
     "user_id": "1280361280640782390",
-    "reaction_count": 9,
-    "distributed_reaction_count": 6.363961030678928,
+    "reaction_count": 5,
+    "distributed_reaction_count": 5.0,
+    "image_count_in_message": 1
+  },
+  {
+    "filename": "image5.png",
+    "filepath": "images/image5.png",
+    "timestamp": "2024-11-11T08:18:26.863000+00:00",
+    "author": "ふぃーぬ",
+    "user_id": "1280361280640782390",
+    "reaction_count": 22,
+    "distributed_reaction_count": 15.556349186104045,
     "image_count_in_message": 2
+  },
+  {
+    "filename": "image6.png",
+    "filepath": "images/image6.png",
+    "timestamp": "2025-02-26T15:47:02.737000+00:00",
+    "author": "クロム",
+    "user_id": "234313536002719757",
+    "reaction_count": 13,
+    "distributed_reaction_count": 9.192388155425117,
+    "image_count_in_message": 2
+  },
+  {
+    "filename": "image7.png",
+    "filepath": "images/image7.png",
+    "timestamp": "2024-11-21T15:41:56.709000+00:00",
+    "author": "ふぃーぬ",
+    "user_id": "1280361280640782390",
+    "reaction_count": 14,
+    "distributed_reaction_count": 14.0,
+    "image_count_in_message": 1
+  },
+  {
+    "filename": "image8.png",
+    "filepath": "images/image8.png",
+    "timestamp": "2025-06-15T17:44:35.214000+00:00",
+    "author": "クロム",
+    "user_id": "234313536002719757",
+    "reaction_count": 13,
+    "distributed_reaction_count": 9.192388155425117,
+    "image_count_in_message": 2
+  },
+  {
+    "filename": "image9.png",
+    "filepath": "images/image9.png",
+    "timestamp": "2025-03-07T12:58:47.902000+00:00",
+    "author": "ふぃーぬ",
+    "user_id": "1280361280640782390",
+    "reaction_count": 11,
+    "distributed_reaction_count": 11.0,
+    "image_count_in_message": 1
   }
 ]
