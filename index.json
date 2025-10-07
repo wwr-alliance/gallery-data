@@ -3,105 +3,78 @@
     {
       "filename": "image0.png",
       "filepath": "images/image0.png",
-      "timestamp": "2025-09-21T13:07:50Z",
-      "author": "@ΣПΛ$",
-      "width": 2048,
-      "height": 1152,
-      "aspect_ratio": 1.778
+      "timestamp": "2025-03-02T00:40:17Z",
+      "author": "サーヴァント・ゼロ",
+      "width": 1152,
+      "height": 2048,
+      "aspect_ratio": 0.562
     },
     {
       "filename": "image1.png",
       "filepath": "images/image1.png",
-      "timestamp": "2024-03-21T13:49:45Z",
+      "timestamp": "2024-08-09T03:28:16Z",
+      "author": "ｳﾆﾃｨ",
+      "width": 1920,
+      "height": 1080,
+      "aspect_ratio": 1.778
+    },
+    {
+      "filename": "image2.png",
+      "filepath": "images/image2.png",
+      "timestamp": "2025-09-08T04:40:50Z",
       "author": "プロトタイプ(Prototype)",
       "width": 1152,
       "height": 2048,
       "aspect_ratio": 0.562
     },
     {
-      "filename": "image2.png",
-      "filepath": "images/image2.png",
-      "timestamp": "2025-06-12T17:14:06Z",
-      "author": "クロム",
-      "width": 2048,
-      "height": 1152,
-      "aspect_ratio": 1.778
-    },
-    {
       "filename": "image3.png",
       "filepath": "images/image3.png",
-      "timestamp": "2025-10-04T23:00:07Z",
-      "author": "サーヴァント・ゼロ",
-      "width": 2048,
-      "height": 1152,
+      "timestamp": "2025-02-26T15:46:31Z",
+      "author": "クロム",
+      "width": 1920,
+      "height": 1080,
       "aspect_ratio": 1.778
     },
     {
       "filename": "image4.png",
       "filepath": "images/image4.png",
-      "timestamp": "2025-08-15T04:17:29Z",
-      "author": "ｳﾆﾃｨ",
-      "width": 2048,
-      "height": 1152,
+      "timestamp": "2024-12-12T17:01:34Z",
+      "author": "ふぃーぬ",
+      "width": 1280,
+      "height": 720,
       "aspect_ratio": 1.778
     },
     {
       "filename": "image5.png",
       "filepath": "images/image5.png",
-      "timestamp": "2025-05-25T08:12:31Z",
+      "timestamp": "2025-03-16T02:02:28Z",
       "author": "クロイヌ",
-      "width": 2048,
-      "height": 1152,
-      "aspect_ratio": 1.778
-    },
-    {
-      "filename": "image6.png",
-      "filepath": "images/image6.png",
-      "timestamp": "2025-10-06T10:19:49Z",
-      "author": "COMPUG",
-      "width": 2048,
-      "height": 1152,
-      "aspect_ratio": 1.778
-    },
-    {
-      "filename": "image7.png",
-      "filepath": "images/image7.png",
-      "timestamp": "2025-07-23T15:07:45Z",
-      "author": "ふぃーぬ",
-      "width": 2048,
-      "height": 1152,
-      "aspect_ratio": 1.778
-    },
-    {
-      "filename": "image8.png",
-      "filepath": "images/image8.png",
-      "timestamp": "2024-09-24T15:34:25Z",
-      "author": "37(さんなな)",
-      "width": 2048,
-      "height": 1152,
-      "aspect_ratio": 1.778
-    },
-    {
-      "filename": "image9.png",
-      "filepath": "images/image9.png",
-      "timestamp": "2025-10-02T23:04:25Z",
-      "author": "ceeper",
       "width": 1152,
       "height": 2048,
       "aspect_ratio": 0.562
     },
     {
-      "filename": "image10.png",
-      "filepath": "images/image10.png",
-      "timestamp": "2025-10-04T13:00:50Z",
+      "filename": "image6.png",
+      "filepath": "images/image6.png",
+      "timestamp": "2025-07-17T21:06:28Z",
       "author": "ジン",
-      "width": 2048,
-      "height": 1670,
-      "aspect_ratio": 1.226
+      "width": 1288,
+      "height": 1468,
+      "aspect_ratio": 0.877
     },
     {
-      "filename": "image11.png",
-      "filepath": "images/image11.png",
+      "filename": "image7.png",
+      "filepath": "images/image7.png",
+      "timestamp": "2024-10-01T15:48:32Z",
+      "author": "37(さんなな)",
+      "width": 1920,
+      "height": 1080,
+      "aspect_ratio": 1.778
+    },
+    {
+      "filename": "image8.png",
+      "filepath": "images/image8.png",
       "timestamp": "2025-03-16T19:04:48Z",
       "author": "Kuro",
       "width": 2048,
@@ -109,14 +82,41 @@
       "aspect_ratio": 1.778
     },
     {
-      "filename": "image12.png",
-      "filepath": "images/image12.png",
+      "filename": "image9.png",
+      "filepath": "images/image9.png",
+      "timestamp": "2025-08-23T14:45:32Z",
+      "author": "Dalkaid",
+      "width": 1920,
+      "height": 1080,
+      "aspect_ratio": 1.778
+    },
+    {
+      "filename": "image10.png",
+      "filepath": "images/image10.png",
+      "timestamp": "2025-09-27T23:06:47Z",
+      "author": "@ΣПΛ$",
+      "width": 2048,
+      "height": 1152,
+      "aspect_ratio": 1.778
+    },
+    {
+      "filename": "image11.png",
+      "filepath": "images/image11.png",
       "timestamp": "2025-02-02T03:26:42Z",
       "author": "ぜふぁ太郎",
       "width": 2048,
       "height": 1152,
       "aspect_ratio": 1.778
+    },
+    {
+      "filename": "image12.png",
+      "filepath": "images/image12.png",
+      "timestamp": "2025-09-22T14:19:32Z",
+      "author": "dagger1825",
+      "width": 1920,
+      "height": 1080,
+      "aspect_ratio": 1.778
     }
   ],
-  "created_at": "2025-10-07T11:02:30Z"
+  "created_at": "2025-10-07T12:03:36Z"
 }
